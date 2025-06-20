@@ -1,6 +1,6 @@
-# Rank Trading
+# Rank
 
-Rank Trading is an advanced platform for algorithmic trading and financial market analysis. Utilizing cutting-edge technology and sophisticated algorithms, Rank Trading provides powerful tools for traders and investors.
+Rank is an advanced platform for algorithmic trading and financial market analysis. Utilizing cutting-edge technology and sophisticated algorithms, Rank Trading provides powerful tools for traders and investors.
 
 ## Key Features
 
